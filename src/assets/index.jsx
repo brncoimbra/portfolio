@@ -7,6 +7,8 @@ import FireBase from "./firebase.png";
 import GitHub from "./github.png";
 import Tailwind from "./tailwind.png";
 import Mongo from "./mongo.png";
+import Rating from "./projects/rating-project.png";
+import Pokedex from "./projects/pokedex.png";
 
 export {
   HTML,
@@ -18,4 +20,6 @@ export {
   GitHub,
   Tailwind,
   Mongo,
+  Rating,
+  Pokedex,
 };
