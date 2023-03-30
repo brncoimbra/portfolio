@@ -9,6 +9,7 @@ import Tailwind from "./tailwind.png";
 import Mongo from "./mongo.png";
 import Rating from "./projetos/rating-project.png";
 import Pokedex from "./projetos/pokedex.png";
+import Crud from "./projetos/crud.png";
 
 export {
   HTML,
@@ -20,6 +21,7 @@ export {
   GitHub,
   Tailwind,
   Mongo,
+  Crud,
   Rating,
   Pokedex,
 };
